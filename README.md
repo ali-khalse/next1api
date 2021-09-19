@@ -5,7 +5,7 @@ Requests officially supports Python 3.5+.
 Requests is available on PyPI:
 
 ```console
-$ python -m pip install requests
+$ python -m pip install next1api
 ```
 ---
 #
