@@ -11,7 +11,7 @@ $ python -m pip install next1api
 ---
 #
 ```python
-from next1api import Music
+from next1api.next1api import Music
 #search
 >>> C = Music()
 >>> C.search("تست")
