@@ -1,3 +1,4 @@
+# pip install beautifulsoup4
 from bs4 import BeautifulSoup
 from requests import get,post
 class Music:
