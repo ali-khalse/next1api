@@ -3,8 +3,7 @@
 ## Installing Requests and Supported Versions
 next1api officially supports Python 3.5+
 <br>
-next1api is available on PyPI:
-
+next1api is available on [PyPI](https://pypi.org/project/next1api/):
 ```console
 $ python -m pip install next1api
 ```
